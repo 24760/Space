@@ -1,0 +1,9 @@
+[submodule "பளிங்கு"]
+	path = பளிங்கு
+	url = https://github.com/247i/Marble.git
+[submodule "விண்ணுலகம்"]
+	path = விண்ணுலகம்
+	url = https://github.com/247i/Celestia.git
+[submodule "விண்மீன்கள்"]
+	path = விண்மீன்கள்
+	url = https://github.com/247i/Stellarium.git
